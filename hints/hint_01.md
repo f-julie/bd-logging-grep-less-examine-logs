@@ -1,0 +1,1 @@
+Take a look at the `-l` and the `-r` options for grep.

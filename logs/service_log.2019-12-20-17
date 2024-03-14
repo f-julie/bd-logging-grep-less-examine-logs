@@ -1,0 +1,722 @@
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=123 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=200
+HTTP_REFERER=
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/try
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=3F595D597965499095FB
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-5238042-2294546
+Time=1923 ms
+EndTime=Fri, 20 Dec 2019 17:45:27 UTC
+StartTime=1576863925.216
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/125/1/ms,Remote#T/125/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1088/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863927078/1,TotalTime:1906.469429/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863927078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863927078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863927089/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863927078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863927094/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863927076/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=123 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=200
+HTTP_REFERER=
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/try
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=2DEC7B7C8C26478F96F3
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-8898490-3086063
+Time=44 ms
+EndTime=Fri, 20 Dec 2019 17:45:53 UTC
+StartTime=1576863953.184
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/28/1/ms,Remote#T/28/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863953224/1,TotalTime:43.079617/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863953224/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863953224/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863953224/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863953224/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863953224/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863953224/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=POST
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/1/batch/2/OE/mid=ATVPDKIKX0DER:sid=000-8898490-3086063:rid=2DEC7B7C8C26478F96F3:sn=www.amazon.com
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=009E37CB9E5E4C7FBFEF
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-1325793-0705762
+Time=475 ms
+EndTime=Fri, 20 Dec 2019 17:45:53 UTC
+StartTime=1576863953.367
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863953381/1,DefaultHorizonteDispatcherServlet:render:881/2,TotalTime:474.967934/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863953381/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863953381/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863953381/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863953381/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863953381/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863953381/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/favicon.ico
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=8E404C60C61F4D2C87C4
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-8236409-9647589
+Time=454 ms
+EndTime=Fri, 20 Dec 2019 17:45:53 UTC
+StartTime=1576863953.388
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863953400/1,DefaultHorizonteDispatcherServlet:render:875/2,TotalTime:453.665761/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863953400/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863953400/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863953400/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863953400/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863953400/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863953400/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=123 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=200
+HTTP_REFERER=
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/try
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=61639B3F8E584451A6C8
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-8689520-5750474
+Time=18 ms
+EndTime=Fri, 20 Dec 2019 17:45:54 UTC
+StartTime=1576863954.064
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863954078/1,TotalTime:17.176927/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863954078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863954078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863954078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863954078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863954078/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863954078/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/favicon.ico
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=C818555F7E3E4108A9DB
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-3307542-0388527
+Time=21 ms
+EndTime=Fri, 20 Dec 2019 17:45:54 UTC
+StartTime=1576863954.149
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863954163/1,DefaultHorizonteDispatcherServlet:render:5/2,TotalTime:20.075251/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863954163/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=POST
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/1/batch/2/OE/mid=ATVPDKIKX0DER:sid=000-8689520-5750474:rid=61639B3F8E584451A6C8:sn=www.amazon.com
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=CD3503B012FE4D57913A
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-0734018-4537666
+Time=24 ms
+EndTime=Fri, 20 Dec 2019 17:45:54 UTC
+StartTime=1576863954.149
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863954163/1,DefaultHorizonteDispatcherServlet:render:6/2,TotalTime:23.72411/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863954163/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863954163/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=123 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=200
+HTTP_REFERER=
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/try
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=055B91B7230046AD8571
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-8506500-4302986
+Time=18 ms
+EndTime=Fri, 20 Dec 2019 17:45:55 UTC
+StartTime=1576863955.526
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/5/1/ms,Remote#T/5/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863955541/1,TotalTime:17.400838/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863955541/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863955541/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863955541/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863955541/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863955541/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863955541/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/favicon.ico
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=6F648F59622245A3947B
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-6013354-2718319
+Time=20 ms
+EndTime=Fri, 20 Dec 2019 17:45:55 UTC
+StartTime=1576863955.606
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863955618/1,DefaultHorizonteDispatcherServlet:render:4/2,TotalTime:19.342505/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863955619/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863955618/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=POST
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/1/batch/2/OE/mid=ATVPDKIKX0DER:sid=000-8506500-4302986:rid=055B91B7230046AD8571:sn=www.amazon.com
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=FF83EE5345CE4934A079
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-9660401-6754853
+Time=21 ms
+EndTime=Fri, 20 Dec 2019 17:45:55 UTC
+StartTime=1576863955.606
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/5/1/ms,Remote#T/5/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863955618/1,DefaultHorizonteDispatcherServlet:render:7/2,TotalTime:20.806526/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863955618/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863955618/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=123 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=200
+HTTP_REFERER=
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/try
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=B9E16221699540378E8C
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-5443550-3491936
+Time=14 ms
+EndTime=Fri, 20 Dec 2019 17:45:56 UTC
+StartTime=1576863956.247
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863956258/1,TotalTime:14.251815/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863956258/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863956258/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863956258/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863956258/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863956259/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863956258/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=POST
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/1/batch/2/OE/mid=ATVPDKIKX0DER:sid=000-5443550-3491936:rid=B9E16221699540378E8C:sn=www.amazon.com
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=1445A3FB48134146AE0F
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-0539613-7035761
+Time=19 ms
+EndTime=Fri, 20 Dec 2019 17:45:56 UTC
+StartTime=1576863956.328
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863956340/1,DefaultHorizonteDispatcherServlet:render:4/2,TotalTime:18.145683/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863956340/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863956340/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863956340/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863956340/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863956340/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863956340/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/favicon.ico
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=7611BD651216459CB098
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-6556598-7306273
+Time=17 ms
+EndTime=Fri, 20 Dec 2019 17:45:56 UTC
+StartTime=1576863956.329
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863956341/1,DefaultHorizonteDispatcherServlet:render:3/2,TotalTime:17.403397/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863956341/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863956341/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863956341/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863956341/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863956342/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863956341/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=123 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=200
+HTTP_REFERER=
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/try
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=C218FE8CA44146DD9F48
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-6609235-3267669
+Time=14 ms
+EndTime=Fri, 20 Dec 2019 17:45:56 UTC
+StartTime=1576863956.982
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863956993/1,TotalTime:14.455846/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863956993/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863956993/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863956993/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863956993/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863956993/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863956993/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/favicon.ico
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=A614E421D40147D981E2
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-6103936-7434886
+Time=15 ms
+EndTime=Fri, 20 Dec 2019 17:45:57 UTC
+StartTime=1576863957.064
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863957075/1,DefaultHorizonteDispatcherServlet:render:3/2,TotalTime:15.030793/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863957075/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=POST
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/1/batch/2/OE/mid=ATVPDKIKX0DER:sid=000-6609235-3267669:rid=C218FE8CA44146DD9F48:sn=www.amazon.com
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=E45126AF539A45378EA8
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-7627478-3811811
+Time=18 ms
+EndTime=Fri, 20 Dec 2019 17:45:57 UTC
+StartTime=1576863957.062
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863957075/1,DefaultHorizonteDispatcherServlet:render:6/2,TotalTime:17.726126/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863957075/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863957075/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=123 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=200
+HTTP_REFERER=
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/try
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=C9C4566375DB41E6945C
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-3814574-3948176
+Time=15 ms
+EndTime=Fri, 20 Dec 2019 17:45:57 UTC
+StartTime=1576863957.977
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863957989/1,TotalTime:14.543336/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863957989/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863957989/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863957989/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863957989/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863957989/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863957989/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=POST
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/1/batch/2/OE/mid=ATVPDKIKX0DER:sid=000-3814574-3948176:rid=C9C4566375DB41E6945C:sn=www.amazon.com
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=10F7C2F006F140808915
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-3220410-2984849
+Time=15 ms
+EndTime=Fri, 20 Dec 2019 17:45:58 UTC
+StartTime=1576863958.054
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:1/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863958065/1,DefaultHorizonteDispatcherServlet:render:4/2,TotalTime:15.073383/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863958065/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863958065/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863958065/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863958065/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863958065/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863958064/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
+------------------------------------------------------------------------
+REMOTE_HOSTNAME=240.10.1.3
+Size=328 bytes
+REMOTE_ADDR=240.10.1.3
+x-original-scheme=
+Operation=request
+StatusCode=404
+HTTP_REFERER=http://someapp.aka.corp.amazon.com:8000/try
+x-forwarded-host=
+TrafficPolicies=
+REQUEST_METHOD=GET
+host=someapp.aka.corp.amazon.com:8000
+x-original-args=
+SERVER_NAME=someapp.aka.corp.amazon.com
+PATH_INFO=/favicon.ico
+x-flash-version=
+SERVER_PORT=8000
+AMZ_ROBOT_STATUS=
+RequestId=65DB08CAD0FB4F129169
+Hostname=someapp-2b-7d1d87d2.us-west-2.amazon.com
+PROTOCOL=HTTP/1.1
+CustomerId=
+Info=page-type=Error404,CSMTags=HZ5Encoding:UTF-8
+Marketplace=USAmazon
+MarketplaceId=ATVPDKIKX0DER
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+x-original-uri=
+HTTP_COOKIE=aws-priv=********; aws_lang=********; aws-target-static-id=********; aws-target-data=********; s_fid=********; regStatus=********; s_cc=********; _sp_id.e67c=********; c_m=********; s_vn=********; aws-target-visitor-id=********; s_sq=********; s_dslv=********; s_nr=********; 
+original-x-forwarded-for=
+Session=000-7145599-7323745
+Time=16 ms
+EndTime=Fri, 20 Dec 2019 17:45:58 UTC
+StartTime=1576863958.055
+Program=Unknown
+ServiceMetrics=PARISService:getMarketplaceByDomainName=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/100/1/%,Latency#L/4/1/ms,Remote#T/4/1/ms;SessionServiceV2:ValidateSession=BatchSize#C/1/1/,Backoff:Critical#C/0/1/,Timeout:Critical#C/0/1/,Availability:Critical#L/0/1/%;
+Timing=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite:Time:0/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD:-1576863958067/1,DefaultHorizonteDispatcherServlet:render:4/2,TotalTime:15.771226/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID:-1576863958067/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID:-1576863958067/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN:-1576863958067/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE:-1576863958067/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT:-1576863958067/1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID:-1576863958067/1
+Counters=I18nDomainDataSourceDescriptor:I18nDomain:Legacy:retailwebsite=1,HZ5UTF8=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CCTLD=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CUSTOMER_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:SESSION_ID=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:DOMAIN=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:CONFIG_DATA_SOURCE=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:EXPORT=1,I18nGenericRetailDomainResolver:GenericRetailDomainDataProvider:MARKETPLACE_ID=1
+EOE
